@@ -1,4 +1,6 @@
 # Here
+![Here!_UI_sketch](https://github.com/TracyL5982/Here/assets/90054947/e3cf31fc-2a7f-416a-afef-50dec1898b5b)
+
 Here is an innovative location-based augmented reality (AR) social app shifts the focus from the present moment to the here and now. 
 With our app, users can leave messages or AR content at specific locations for their friends or the general public to discover. 
 These planted messages become digital markers in the physical world, creating a unique and immersive social experience. 
